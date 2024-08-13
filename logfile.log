@@ -1,0 +1,11 @@
+[2024-08-12 19:34:08] [ ERROR] [OdontologoH2:84] org.h2.Driver
+[2024-08-12 19:34:08] [ ERROR] [OdontologoH2:92] Error al intentar cerrar la base de datos: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2024-08-12 19:41:10] [ ERROR] [OdontologoH2:84] org.h2.Driver
+[2024-08-12 19:41:10] [ ERROR] [OdontologoH2:92] Error al intentar cerrar la base de datos: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2024-08-12 20:19:01] [ INFO ] [OdontologoMemoria:18] Odontologo guardado en memoria: Odontologo{id=1, numeroMatricula='ABC123', nombre='Fernando', apellido='Padilla'}
+[2024-08-12 20:21:28] [ INFO ] [OdontologoMemoria:18] Odontologo guardado en memoria: Odontologo{id=1, numeroMatricula='ABC123', nombre='Fernando', apellido='Padilla'}
+[2024-08-12 20:21:28] [ INFO ] [OdontologoMemoria:23] Listado de los odontologos: [Odontologo{id=1, numeroMatricula='ABC123', nombre='Fernando', apellido='Padilla'}]
+[2024-08-12 20:25:42] [ INFO ] [OdontologoMemoria:18] Odontologo guardado en memoria: Odontologo{id=1, numeroMatricula='ABC123', nombre='Fernando', apellido='Padilla'}
+[2024-08-12 20:25:42] [ INFO ] [OdontologoMemoria:23] Listado de los odontologos: [Odontologo{id=1, numeroMatricula='ABC123', nombre='Fernando', apellido='Padilla'}]
+[2024-08-12 20:34:19] [ ERROR] [OdontologoServiceTest:31] org.h2.Driver
+[2024-08-12 20:34:37] [ ERROR] [OdontologoServiceTest:31] org.h2.Driver
